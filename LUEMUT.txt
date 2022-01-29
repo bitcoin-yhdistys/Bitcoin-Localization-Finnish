@@ -3,7 +3,10 @@ Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien l�
 
 Kaikki PullRequest (PR) julkaisijoiden tulee ilmoittaa tähän tiedostoon muutokset sekä lisätä julkaisu tag muodossa vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) Edellisen VVVVKKPP-HHMM avaimen yläpuolelle.
 
-Bitcoin Localization keskustelua käydään Twitterissä osoitteessa: https://twitter.com/LocalizeBitcoin
+Bitcoin Localization keskustelua käydään
+-Twitterissä globaalisti osoitteessa: https://twitter.com/LocalizeBitcoin
+-Telegram kanavalla Suomessa Kryptovaluuttayhdistys Konsensus Ry - https://t.me/KonsensusRy
+-Telagram kanavalla BitcoinLocalization-Finnish - https://t.me/+Z1z_s25o8N9lZjU0
 
 Tämän version pahjana ovat olleet aiemmat suomennokset:
 Brandin kirjasto: 
