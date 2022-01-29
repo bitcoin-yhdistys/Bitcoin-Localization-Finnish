@@ -3,6 +3,7 @@ ASIC = sovelluskohtainen integroitu piiri
 BIP (Bitcoin Improvement Proposal) = Bitcoin-parannusehdotus
 block = lohko
 blockchain = lohkoketju
+block explorer = lohkoketjuselain
 block reward = lohkopalkkio
 block subsidy = lohkotuki
 brain wallet = aivolompakko
