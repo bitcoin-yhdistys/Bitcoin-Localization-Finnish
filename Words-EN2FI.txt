@@ -1,0 +1,190 @@
+altcoin = altcoin, vaihtoehtoinen kryptokolikko
+ASIC = sovelluskohtainen integroitu piiri
+BIP (Bitcoin Improvement Proposal) = Bitcoin-parannusehdotus
+block = lohko
+blockchain = lohkoketju
+block reward = lohkopalkkio
+block subsidy = lohkotuki
+brain wallet = aivolompakko
+coin = kolikko
+coinbase transaction = kolikkobaasitapahtuma
+cold storage = kylmä säilytys
+cold wallet= kylmä lompakko
+confirmation = vahvistus
+Consensus algorithm, mechanism = konsensusalgoritmi, konsensusmekanismi
+Consensus rules = konsensussäännöt, yksimielisyyssäännöt
+cryptoasset(s) = kryptovara(t), krypto-omaisuus
+decentralization = hajauttaminen, desentralisaatio
+demand = kysyntä
+difficulty = vaikeus
+difficulty adjustment = vaikeudenmukautus; vaikeusäästö
+distributed = hajautettu
+distributed ledger = hajautettu tilikirja, hajautettu pääkirja, hajautettu kirjanpito
+divisibility = jaettavuus (yksiköihin)
+durability = kestävyys
+encryption = salaus
+escrow = sulkutili
+exchange = (krypto)pörssi
+faucet = hana
+fork = haara, haarauma
+fractional reserve banking (FRB) = (pankkien) osittaisvarantojärjestelmä, vähimmäisvarantojärjestelmä
+FUD (fear, uncertainty and doubt) = pelko, epävarmuus ja epäilys
+full node = täysi solmu, täyssolmu
+fungibility (fungible) = fungibiliteetti (fungiibeli), lajiesinemäisyys (lajiesine), päittäin vaihdettavuus (non-fungible = uniikki, ainutkertainen, yksilöllinen)
+Genesis block = alkulohko, Genesis-lohko
+hash = tiiviste, tarkiste
+hashing = tiivistäminen, laskenta
+hashpower = laskentateho
+hot wallet = kuuma lompakko
+ICO (Initial Coin Offering) = kolikkoanti, polettianti
+ledger = tilikirja, kirjanpito, pääkirja
+Lightning Network = Salamaverkko
+mainnet = pääverkko
+market cap = markkina-arvo
+message = viesti, sanoma
+mining = louhinta
+mixing service = sekoituspalvelu
+monetary policy = rahapolitiikka
+multisignature, multisig = moniallekirjoitus
+network = verkko, verkosto
+nocoiner = nocoinaaja
+node = solmu
+nonce (number used only once) = vuoronumero
+opcode = operaatiokoodi
+open source = avoin lähdekoodi
+orphan block = orpolohko
+paper wallet = paperilompakko
+Pay-to-Public-Key Hash (P2PKH) = maksa julkisen avaimen tiivisteelle
+Pay-to-Script Hash (P2SH) = maksa skriptin tiivisteelle
+peer-to-peer network = vertaisverkko
+portability = siirrettävyys
+precoiner = esicoinaaja
+private key = yksityinen avain
+Proof-of-Authority (PoA) = valtuustodiste, valtatodiste; todiste valtuudesta
+Proof of Work (PoW) = työntodiste; todiste työstä
+Proof of Stake (PoS) = varantotodiste, osuustodiste; todiste varannosta, todiste osuudesta
+public key = julkinen avain
+public key cryptography (PKC)= julkisen avaimen salaus
+scarcity = niukkuus
+SegWit = segretoitu todistaja, erotettu/eriytetty todistaja
+Shilling = ylistäminen, höpöttäminen
+sidechain = sivuketju
+signature, sig = allekirjoitus
+shitcoin = kakkakolikko
+smart contract = älykäs sopimus, älysopimus
+staking = steikkaus, panostaminen, pantittaminen
+supply = tarjonta
+testnet = testiverkko
+timechain = aikaketju
+token = poletti, rahake
+transaction = siirto, transaktio
+transaction fee = siirtokulu, transaktiokulu
+UTXO (Unspent Transaction Output) = käyttämättömän ulostulo
+vault = holvi
+verifiability = todennettavuus
+wallet = lompakko
+
+(bitcoin) holders		bitcoinin haltijat	bitcoinia omistavat
+(lack of) coincidence of wants		tarpeiden kohtaaminen; tarpeiden kohtaamattomuus	tarpeiden kohtaamisen ongelma (tarpeiden kohtaamattomuuden ongelma)
+(natural) resources		luonnonvarat	resurssit
+asset	jokseenkin kontekstisidonnainen	omaisuuslaji	omaisuuserä; varat; myös etu esim. "it is an asset to have"
+Austrian economics		itävaltalainen taloustiede	joskus myös: itävaltalainen (taloustieteen) koulukunta tai (taloustieteen) itävaltalainen koulukunta
+backed by (gold)		taattu (kullalla)	kultakate
+balance of payments (BOP) crisis		maksutasekriisi	eli: balance of payments = maksutase
+base money		rahaperusta	
+Bitcoin ledger		bitcoin-tilikirja t. Bitcoinin tilikirja (korostetaanko kolikoita vai verkkoa)	
+Bitcoin miners		bitcoin-louhijat t. Bitcoinin louhijat (korostetaanko kolikoita vai verkkoa)	miksei myös: bitcoininlouhijat (vrt. kullankaivajat)
+Bitcoin wallet		bitcoin-lompakko	harvemmin: Bitcoin-lompakko
+block reward (fees + subsidy)		lohkopalkkio (tapahtumamaksut + lohkosubventio)	
+block subsidy		lohkosubventio	
+blockchain		lohkoketju	
+bubble		kupla	
+censorship-resistance	resistance kääntyy niin monella tapaa...	sensuurin vastustuskyky; sensuurittomuus	sensuurinkestävyys (vrt. iskunkestävyys)
+clearing and settlement		selvitystoiminta	
+cold storage		kylmäsäilytys	
+commodities	riippuu kontekstista	raaka-aineet; (kulutus)hyödykkeet; tavara(t); tarvikkeet	
+consumable commodity		kulutushyödyke (huom. vrt. yllä)	huom. myös vrt. alla "raw materials and consumables"
+creation of Bitcoin		Bitcoinin synty	
+custodial service		säilytyspalvelu	
+cyberspace		kyberavaruus	
+cypherpunk movement	!!EI OLE SAMA ASIA KUIN CYBERPUNK!!	cypherpunk-liike; cypherpunkkarit	
+debase, debasement		heikentää (valuuttaa); (valuutan) heikentäminen	
+digital cash		digitaalinen käteinen	
+digital currency		digitaalinen valuutta	
+double-spending problem		kaksoiskulutuksen ongelma	
+easy money		helppo raha	
+easy money trap		helpon rahan ansa	
+excludable goods *	tästä ei oo hajuakaan	poisluettavat hyödykkeet	
+final settlement		lopullinen suoritus	
+gold standard		kultakanta	harvemmin: kultastandardi
+gratification	riippuu kontekstista	mielihyvä, tyydytys; (rahallinen) bonus; vapaaehtoinen maksu 	
+hard money		kova raha	
+hoodie-clad hoodlums	ei tää oo termi	huppupäiset huligaanit	
+human history		ihmiskunnan historia	
+human time	jokseenkin kontekstisidonnainen	inhimillinen aika; ihmisen t. ihmisten aika; ihmisaika	ehkä myös: ihmisten käytettävissä oleva aika; "mitä ihmiset ajallaan tekevät"
+immutable		muuttamaton	muuttumaton. Näiden eroa on vaikea tiiviisti selittää, mutta omaan korvaan "muuttamaton" on hitusen voimallisempi, sillä kun jokin "muuttamaton", se on kuin Jumalan sana, jota _aktiivisesti_ kukaan ei voi muuttaa; "muuttumaton" tarkoittaa käytännössä samaa, mutta se on _passiivinen_ ilmaus.
+incentive		insentiivi, kannustin	
+(individual) sovereignty	kaikki näistä käy, valitse kontekstiin sopivin:	(yksilön) itsemääräämisoikeus, yksilönvapaus, suvereniteetti, itsevaltius	sopii myös puhuttaessa Bitcoinista
+ledger		tilikirja	
+Lightning Network	Riippuu siitä, käsitetäänkö yleis- vai erisnimeksi!	salamaverkko; Salamaverkko; Lightning Network -verkko; Lightning-verkko	Onko Lightning Network samanlainen yleiskäsite kuin tietokoneverkko (jolloin se olisi "salamaverkko"), vai onko se ko. verkon nimi ("Lightning Network -verkko" tai "Lightning-verkko")? Puhutaanko suomeksi jo salamamaksuista vai kuitenkin enemmän (L/l)ightning-maksuista?
+liquidity pool		likviditeettipooli t. -reservi	voinee olla myös: "yhteenlaskettu likviditeetti" tai "käytettävissä oleva likviditeetti" tai jotain sellaista
+loanable funds		lainattavat t. lainattavissa olevat varat	
+lowering time preference		madaltaa aikapreferenssiä	
+marginal utility		rajahyöty; rajallinen hyöty	
+market bubble		markkinakupla	
+means of exchange	ei ilmeisesti sama kuin "medium of exchange" (= vaihdon väline)	vaihdantakeino(t); vaihdannan keino(t)	
+mining		louhinta	kullan yhteydessä: kaivuu
+monetary medium		rahaväline	monetaarinen väline
+money supply	riippuu kontekstista	rahavaranto; rahan tarjonta; rahan määrä	
+netting and settling payments	en oo varma tästä	maksujen nettoutus ja tilitys	
+node (to run a node)		solmu (ajaa solmua)	
+notes	riippuu kontekstista	seteli(t)	huom. myös: "notes and coins" = käteisraha. Muissa monetaarisissa yhteyksissä: Velkakirja
+opportunity costs		vaihtoehto(is)kustannukset	
+paper receipt		paperinen tosite	
+peer-to-peer network		vertaisverkko	
+physical cash		fyysinen käteinen	
+private / public key		yksityinen / julkinen avain	myös: yksityisavain
+processing power		laskentateho	ei mielellään: prosessointiteho
+proven reserves	ei taida olla varsinainen termi	(todistettavasti/todistetusti) olemassa olevat varannot	
+raw materials	jokseenkin kontekstisidonnainen	raaka-aineet	huom. myös: "raw materials and consumables" = aineet ja tarvikkeet
+rival goods *	en oo varma tästä	kilpailulliset hyödykkeet (myös: "non-rival" = ei-kilpailulliset)	ehkä myös: (keskenään) kilpailevat hyödykkeet
+routing fee		reititysmaksu	
+salable		kaupaksikäyvä t. menevä	"salability" = myytävyys
+salable over time, space and scale	vapaasti ilmaistavissa, esim:	myytävää / käy kaupaksi ajasta, paikasta ja mittakaavoista riippumatta	
+saving technology / technology for saving		säästämisen teknologia	miksei myös: säästöteknologia (vrt. säästöpankki) 
+scaling solutions / problem		skaalautuvuusratkaisu(t) / -ongelma(t)	
+settlement	kontekstisidonnainen	suoritus, esim. käteissuoritus "cash settlement"	myös ilmeisesti: tilitys t. selvitys
+sound money	"raha joka on terveellä pohjalla", eli:	kestävä raha	Bitcoin-standardissa käytetty: vakaa raha
+soundness	vrt. yllä	kestävyys	vakaus
+sovereign base money	en oo varma tästä	valtion rahaperusta	
+stock‐to‐flow ratio		varanto-virtaussuhde	
+store of value		arvon säilyttäjä	mahdollisesti jossain myös yhdyssana, ei oo selvinny logiikka itelle
+time preference		aikapreferenssi	
+trustless transactions		luottamukseton siirto/tapahtuma	
+unit of account		laskentayksikkö	
+unit of measure		mittayksikkö	
+unsound money	vrt. yllä	kestämätön raha	epävakaa raha, Bitcoin-standardissa käytetty: heikko raha
+wallet addresses		lompakko-osoitteet	
+fork		haarautuminen	hard fork = jyrkkä haarauma/haarautuminen; soft fork = loiva haarauma/haarautuminen
+node-operator		solmun ylläpitäjä	ei mielellään: solmuoperaattori
+consensus rules		konsensussäännöt	
+networkparticipants		verkon jäsenet, käyttäjät; verkkoon osallistuvat	
+			
+KEYS & ADDRESSES			
+address		osoite	
+child key		aliavain	“lapsiavain”?
+extended private key, xprv		laajennettu yksityinen avain, xprv-avain, xprv	
+extended public key, xpub		laajennettu julkinen avain, xpub-avain, xpub	
+Hardened X key		Vahvennettu X avain	
+master key		pääavain	
+parent key		Kanta-avain	“vanhempi avain”?
+pay-to-public-key-hash, p2pkh		“maksa julkisen avaimen tiivisteelle”, p2pkh	
+pay-to-script-hash, p2sh		“maksa skriptin tiivisteelle”, p2sh	
+pay-to-witness-public-key-hash, p2wpkh		“maksa todistuksen julkisen avaimen tiivisteelle” ?, p2wpkh	
+pay-to-witness-script-hash, p2wsh		“maksa todistusskriptin tiivisteelle”, p2wsh	
+private key		yksityinen avain	
+private key addition		yksityisten avainten yhteenlasku	
+public key		julkinen avain	
+public key addition		julkisten avainten yhteenliittäminen (ei varsinaisesti lasketa yhteen)	
+public key derivation function		julkisen avaimen johtamisfunktio	
+public key hash, PKH		julkisen avaimen tiiviste, PKH	

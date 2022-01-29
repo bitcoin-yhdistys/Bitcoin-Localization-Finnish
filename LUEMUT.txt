@@ -1,0 +1,13 @@
+20220129-1901 (C)Tomi Lind
+Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
+
+Kaikki PushRequest (PR) julkaisijoiden tulee ilmoittaa tähän tiedostoon muutokset sekä lisätä julkaisu tag muodossa vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) Edellisen VVVVKKPP-HHMM avaimen yläpuolelle.
+
+Bitcoin Localization keskustelua käydään Twitterissä osoitteessa: https://twitter.com/LocalizeBitcoin
+
+Tämän version pahjana ovat olleet aiemmat suomennokset:
+Brandin kirjasto: 
+-https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
+
+Konsensus.network käännökset: 
+-https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
