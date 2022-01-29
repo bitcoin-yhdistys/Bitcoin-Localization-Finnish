@@ -1,7 +1,7 @@
 20220129-1901 (C)Tomi Lind
 Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
 
-Kaikki PusllRequest (PR) julkaisijoiden tulee ilmoittaa tähän tiedostoon muutokset sekä lisätä julkaisu tag muodossa vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) Edellisen VVVVKKPP-HHMM avaimen yläpuolelle.
+Kaikki PullRequest (PR) julkaisijoiden tulee ilmoittaa tähän tiedostoon muutokset sekä lisätä julkaisu tag muodossa vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) Edellisen VVVVKKPP-HHMM avaimen yläpuolelle.
 
 Bitcoin Localization keskustelua käydään Twitterissä osoitteessa: https://twitter.com/LocalizeBitcoin
 
