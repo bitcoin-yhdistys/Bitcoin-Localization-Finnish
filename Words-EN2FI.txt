@@ -67,6 +67,7 @@ Proof of Stake (PoS) = varantotodiste, osuustodiste; todiste varannosta, todiste
 public key = julkinen avain
 public key cryptography (PKC)= julkisen avaimen salaus
 scarcity = niukkuus
+seed = siemen
 SegWit = segretoitu todistaja, erotettu/eriytetty todistaja
 Shilling = ylistäminen, höpöttäminen
 sidechain = sivuketju
