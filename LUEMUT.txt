@@ -26,3 +26,6 @@ Zap-Android:
 Zap-Desktop
 https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.json
 
+Voit myös auttaa täällä:
+https://www.transifex.com/bitcoin/bitcoin/
+
