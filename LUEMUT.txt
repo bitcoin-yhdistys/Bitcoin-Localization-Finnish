@@ -15,7 +15,10 @@ Brandin kirjasto:
 Konsensus.network käännökset: 
 -https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
 
-Käännettyjen Bitcoin Appien kännostiedostoihin Github-linkit:
+Käännettyjen Bitcoin Appien käännostiedostoihin linkit:
+BlueWallet:
+https://www.transifex.com/bluewallet/bluewallet/
+
 Breez:
 -https://github.com/breez/breezmobile/blob/master/lib/l10n/app_fi.arb
 Zap-Android:
