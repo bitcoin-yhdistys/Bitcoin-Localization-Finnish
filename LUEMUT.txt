@@ -1,31 +1,58 @@
-20220129-1958 (C)Tomi Lind
-Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
+20220130-1224 @tlindi
+Lisätty tietoja termien selityksiä tarjoavista sivuista.
+Lisätty ja korjattu Telegram linkkejä
 
-Kaikki PullRequest (PR) julkaisijoiden tulee ilmoittaa tähän tiedostoon muutokset sekä lisätä julkaisu tag muodossa vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) Edellisen VVVVKKPP-HHMM avaimen yläpuolelle.
+20220129-1958 @tlindi
+Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
+*******************************************************
+
+HUOMIO!
+Kaikki PullRequest (PR) julkaisijoiden tulee ilmoittaa tähän tiedostoon muutokset sekä lisätä julkaisu tag muodossa 
+vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) 
+Edellisen VVVVKKPP-HHMM avaimen yläpuolelle.
 
 Bitcoin Localization keskustelua käydään
 -Twitterissä globaalisti osoitteessa: https://twitter.com/LocalizeBitcoin
 -Telegram kanavalla Suomessa Kryptovaluuttayhdistys Konsensus Ry - https://t.me/KonsensusRy
--Telagram kanavalla BitcoinLocalization-Finnish - https://t.me/+Z1z_s25o8N9lZjU0
-
-Tämän version pohjana ovat olleet aiemmat suomennokset:
-
-Brandin kirjasto: 
--https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
-Konsensus.network käännökset: 
--https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
-
-Käännettyjen Bitcoin Appien kännostiedostoihin Github-linkit:
-Breez:
--https://github.com/breez/breezmobile/blob/master/lib/l10n/app_fi.arb
-Zap-Android:
--https://github.com/LN-Zap/zap-android/blob/master/app/src/main/res/values-fi-rFI/strings.xml
-Zap-Desktop
-https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.json
+-Telegram kanavalla Bitcoin-suomentajat - Pääkäyttäjä (?) https://t.me/OmniFinn 
 
 Idean tähän Repositoryyn toi Tweet:
 -https://twitter.com/localizebitcoin
 
-Voit myös auttaa täällä:
-https://www.transifex.com/bitcoin/bitcoin/
+*******************************************************
+Tämän pohjana ovat olleet:
 
+Konsensus.network käännökset: 
+-https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
+
+*******************************************************
+
+Tietosanakirjamuotoiset lähteet termien selityksien kanssa:
+
+Bitcoinkeskus: https://bitcoinkeskus.com/bitcoin-sanakirja/
+
+Brandin-kirjasto: https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
+
+Bitcoin - Avain Vapauteen kirja: https://www.avainvapauteen.fi/
+
+*******************************************************
+
+Linkkejä Bitcoin sovellusten suomennettujen käännostiedostoihin / sanastoihin
+
+BlueWallet:
+https://www.transifex.com/bluewallet/public/
+
+Breez:
+-https://github.com/breez/breezmobile/blob/master/lib/l10n/app_fi.arb
+
+Zap-Android:
+-https://github.com/LN-Zap/zap-android/blob/master/app/src/main/res/values-fi-rFI/strings.xml
+
+Zap-Desktop:
+https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.json
+
+
+********************************************************
+Voit myös auttaa virallisessa Bitcoin-käännöstyökalussa:
+https://www.transifex.com/bitcoin/bitcoin/
+********************************************************
