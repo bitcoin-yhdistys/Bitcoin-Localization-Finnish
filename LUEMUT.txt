@@ -15,18 +15,14 @@ Idean tähän Repositoryyn toi Tweet:
 *******************************************************
 Tämän pohjana ovat olleet:
 
-Konsensus.network käännökset: 
--https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
-
-*******************************************************
+Konsensus.network käännökset: https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
 
 Tietosanakirjamuotoiset lähteet termien selityksien kanssa:
 
-Bitcoinkeskus: https://bitcoinkeskus.com/bitcoin-sanakirja/
-
-Brandin-kirjasto: https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
-
-Bitcoin - Avain Vapauteen kirja: https://www.avainvapauteen.fi/
+Bitcoin-Avain Vapauteen -kirja	https://www.avainvapauteen.fi/
+Bitcoinkeskus: 					https://bitcoinkeskus.com/bitcoin-sanakirja/
+Bittiraha / Prasos				https://bittiraha.fi/sanasto/
+Brandin-kirjasto 				https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
 
 *******************************************************
 
