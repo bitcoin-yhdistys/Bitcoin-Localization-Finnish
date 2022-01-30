@@ -6,6 +6,9 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset:
 ****************************
+20220130-1259 @tlindi Lisätty linkki Bittirahan sanastoon
+Parannettu luettavuutta sisennyksin 
+
 20220130-1224 @tlindi Korjauksia yhteisövinkkien pohjalta
 Lisätty tietoja termien selityksiä tarjoavista sivuista.
 Lisätty ja korjattu Telegram linkkejä
