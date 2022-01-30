@@ -26,11 +26,7 @@ Brandin-kirjasto 				https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-
 
 *******************************************************
 
-Linkkejä Bitcoin sovellusten suomennettujen käännostiedostoihin / sanastoihin
-
-BlueWallet: https://www.transifex.com/bluewallet/public/
-
-Käännettyjen Bitcoin Appien Github-käännostiedostoihin linkit:
+Käännettyjen Bitcoin sovellusten Github-käännostiedostoihin linkit:
 
 BlueWallet: https://github.com/BlueWallet/BlueWallet/blob/master/loc/fi_fi.json
 
@@ -38,10 +34,10 @@ Breez: https://github.com/breez/breezmobile/blob/master/lib/l10n/app_fi.arb
 
 Zap-Android: https://github.com/LN-Zap/zap-android/blob/master/app/src/main/res/values-fi-rFI/strings.xml
 
-Zap-Desktop: https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.json
-
+Zap-Desktop: https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.jsons
 
 ********************************************************
-Voit myös auttaa virallisessa Bitcoin-käännöstyökalussa:
-https://www.transifex.com/bitcoin/bitcoin/
+Voit myös auttaa Transifex-käännöstyökalussa
+Bitcoin Core: https://www.transifex.com/bitcoin/bitcoin/
+BlueWallet: https://www.transifex.com/bluewallet/public/
 ********************************************************

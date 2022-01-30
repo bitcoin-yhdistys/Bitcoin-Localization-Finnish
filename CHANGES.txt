@@ -6,6 +6,8 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset:
 ****************************
+20220130-1322 @tlindi Korjattu Transifex-linkkjä
+
 20220130-1259 @tlindi Lisätty linkki Bittirahan sanastoon
 Parannettu luettavuutta sisennyksin 
 
