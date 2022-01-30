@@ -1,0 +1,14 @@
+Lisää alle julkaisun tag muodossa, viimeisimmän alla olevan VVVVKKPP-HHMM avaimen yläpuolelle, seuraavasti:
+vvvvkkpp-ttmm (v=vuosi, kk=kuukausi, pp=päivä, tt = tunti ja mm = minuutit) @tekijä "Kuvaus muutoksista lyhyesti"
+Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
+
+(Tulevaisuudessa tämän historian voi korvata Github-työkalut, jos käännösasia tässämuodossa ottaa ilmaa siipiensä alle.
+
+Versiohistoria ja muutokset:
+****************************
+20220130-1224 @tlindi Korjauksia yhteisövinkkien pohjalta
+Lisätty tietoja termien selityksiä tarjoavista sivuista.
+Lisätty ja korjattu Telegram linkkejä
+
+20220129-1958 @tlindi Ensimmäinen versio
+Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
