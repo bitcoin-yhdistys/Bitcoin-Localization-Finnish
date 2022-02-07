@@ -6,14 +6,9 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset:
 ****************************
+20220207-1310 @tlindi Hajotettu LUEMUT.txt osat - lähteet, yhteisöt ja käännökset omiksi tiedostoikseen ja täydennetty README.TXT.tä
+20220207-1248 @tlindi Akkostus ja dublikaattien poisto (PR #5)
 20220130-1322 @tlindi Korjattu Transifex-linkkjä
-
-20220130-1259 @tlindi Lisätty linkki Bittirahan sanastoon
-Parannettu luettavuutta sisennyksin 
-
-20220130-1224 @tlindi Korjauksia yhteisövinkkien pohjalta
-Lisätty tietoja termien selityksiä tarjoavista sivuista.
-Lisätty ja korjattu Telegram linkkejä
-
-20220129-1958 @tlindi Ensimmäinen versio
-Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
+20220130-1259 @tlindi Lisätty linkki Bittirahan sanastoon, Parannettu luettavuutta sisennyksin 
+20220130-1224 @tlindi Korjauksia yhteisövinkkien pohjalta, Lisätty tietoja termien selityksiä tarjoavista sivuista, Lisätty ja korjattu Telegram linkkejä
+20220129-1958 @tlindi Ensimmäinen versio, Tämä on Bitcoin- ja lohkoketjusanastojen ensisijainen termien suomennoksien lähde ja ylläpito.
