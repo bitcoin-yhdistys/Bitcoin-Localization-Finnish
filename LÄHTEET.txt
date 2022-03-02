@@ -4,7 +4,7 @@ Konsensus.network käännökset: https://docs.google.com/spreadsheets/d/1oSYyaeC
 
 Tietosanakirjamuotoiset lähteet termien selityksien kanssa:
 
-Bitcoin-Avain Vapauteen -kirja	https://www.avainvapauteen.fi/
+Bitcoin-Avain Vapauteen -kirja 					https://www.avainvapauteen.fi/
 Bitcoinkeskus: 					https://bitcoinkeskus.com/bitcoin-sanakirja/
 Bittiraha / Prasos				https://bittiraha.fi/sanasto/
 Brandin-kirjasto 				https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
