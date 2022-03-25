@@ -4,37 +4,8 @@ Kaikki PullRequest (PR) julkaisijoiden tulee ilmoittaa CHANGES.txt tiedostoon mu
 HUOMIO!
 *******************************************************
 
-Bitcoin Localization keskustelua käydään
--Twitterissä globaalisti osoitteessa: https://twitter.com/LocalizeBitcoin
--Telegram kanavalla Suomessa Kryptovaluuttayhdistys Konsensus Ry - https://t.me/KonsensusRy
--Telegram kanavalla Bitcoin-suomentajat - Pääkäyttäjä (?) https://t.me/OmniFinn 
-
 Idean tähän Repositoryyn toi Tweet:
 -https://twitter.com/localizebitcoin
-
-*******************************************************
-Tämän pohjana ovat olleet:
-
-Konsensus.network käännökset: https://docs.google.com/spreadsheets/d/1oSYyaeC_g7svLCkxiqSyGO7b334T86Jjpn2inuvqv0k/edit#gid=0
-
-Tietosanakirjamuotoiset lähteet termien selityksien kanssa:
-
-Bitcoin-Avain Vapauteen -kirja	https://www.avainvapauteen.fi/
-Bitcoinkeskus: 					https://bitcoinkeskus.com/bitcoin-sanakirja/
-Bittiraha / Prasos				https://bittiraha.fi/sanasto/
-Brandin-kirjasto 				https://medium.com/brandin-kirjasto/krypto-suomi-sanakirja-6826d9916ae7
-
-*******************************************************
-
-Käännettyjen Bitcoin sovellusten Github-käännostiedostoihin linkit:
-
-BlueWallet: https://github.com/BlueWallet/BlueWallet/blob/master/loc/fi_fi.json
-
-Breez: https://github.com/breez/breezmobile/blob/master/lib/l10n/app_fi.arb
-
-Zap-Android: https://github.com/LN-Zap/zap-android/blob/master/app/src/main/res/values-fi-rFI/strings.xml
-
-Zap-Desktop: https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.jsons
 
 ********************************************************
 Voit myös auttaa Transifex-käännöstyökalussa
