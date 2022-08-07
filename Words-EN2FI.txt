@@ -70,7 +70,7 @@ Genesis block = alkulohko, Genesis-lohko
 gold standard		kultakanta	harvemmin: kultastandardi
 gratification	riippuu kontekstista	mielihyvä, tyydytys; (rahallinen) bonus; vapaaehtoinen maksu 	
 hard money		kova raha	
-Hardware wallet elektroniseen fyysiseen laitteeseen pohjautuva Bitcoin-verkon transaktioiden laskentalaite, jonka käyttöliittymä on tietokoneeseen tai mobiililaitteeseen asennettava sovellus 
+Hardware wallet	allekirjoituslaite	Fyysinen elektroninen laite, jolla hallinnoidaan bitcoin-avaimia ja allekirjoitetaan transaktioita.
 Hardened X key		Vahvennettu X avain	
 hash = tiiviste, tarkiste
 hashing = tiivistäminen, laskenta
