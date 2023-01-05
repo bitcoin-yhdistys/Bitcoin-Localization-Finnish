@@ -6,6 +6,7 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset (uusin ylimmäisenä):
 ****************************
+20230105-1148 @tlindi lisätty kansioon "logo bitcoin salamaverkko" alle icon PNG-tiedostot, jotka tehty Word materiaalista MS 3D Printillä
 20230105-1411 @tlindi lisätty kansio "logo bitcoin salamaverkko" ja sen tiedostot
 20220903-2059 @tlindi custodial, non-custodial ja self-custodial lisätty Telegram-kanavilla "Bitcoin-suomentajat" ja "Salamaverkko" käytyjen keskustelujen pohjalta.
 20220807-1257 @ottomagic Lisätty käännös termille "Hardware Wallet" Telegram-keskustelun pohjalta.
