@@ -6,6 +6,7 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset (uusin ylimmäisenä):
 ****************************
+20230105-1609 @tlindi poistettu "LICENCE"-tiedost ja korvattu se "Creative Commons Zero 1. Universial" licence.md-tiedostolla jonka sisältö tuki github:ilta
 20230105-1537 @tlindi lisätty kansioon "logo bitcoin salamaverkko" logo 1280x640 PNG-tiedosto
 20230105-1530 @tlindi lisätty Public Domain CC0 ts käytä kaikkea täältä löytyvää miten tykkäät.
 20230105-1148 @tlindi lisätty kansioon "logo bitcoin salamaverkko" alle icon PNG-tiedostot, jotka tehty Word materiaalista MS 3D Printillä
