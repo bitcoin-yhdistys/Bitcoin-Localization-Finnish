@@ -6,7 +6,7 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset (uusin ylimmäisenä):
 ****************************
-20230105-1529 @tlindi lisätty kansioon "logo bitcoin salamaverkko" logo 1280x640 PNG-tiedosto
+20230105-1537 @tlindi lisätty kansioon "logo bitcoin salamaverkko" logo 1280x640 PNG-tiedosto
 20230105-1530 @tlindi lisätty Public Domain CC0 ts käytä kaikkea täältä löytyvää miten tykkäät.
 20230105-1148 @tlindi lisätty kansioon "logo bitcoin salamaverkko" alle icon PNG-tiedostot, jotka tehty Word materiaalista MS 3D Printillä
 20230105-1411 @tlindi lisätty kansio "logo bitcoin salamaverkko" ja sen tiedostot
