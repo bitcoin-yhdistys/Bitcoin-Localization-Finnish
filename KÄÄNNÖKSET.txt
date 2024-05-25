@@ -3,7 +3,7 @@ Käännettyjen Bitcoin sovellusten Github-käännostiedostoihin linkit:
 
 BlueWallet: https://github.com/BlueWallet/BlueWallet/blob/master/loc/fi_fi.json
 
-Breez: https://github.com/breez/breezmobile/blob/master/lib/l10n/app_fi.arb
+Breez: https://github.com/breez/Breez-Translations/blob/main/lib/app_fi.arb
 
 Zap-Android: https://github.com/LN-Zap/zap-android/blob/master/app/src/main/res/values-fi-rFI/strings.xml
 
