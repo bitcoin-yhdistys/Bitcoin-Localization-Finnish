@@ -33,11 +33,11 @@ consensus rules		konsensussäännöt, yksimielisyyssäännöt
 consumable commodity		kulutushyödyke (huom. vrt. yllä)	huom. myös vrt. alla "raw materials and consumables"
 creation of Bitcoin		Bitcoinin synty	
 cryptoasset(s) = kryptovara(t), krypto-omaisuus
-custodial				käyttäjällä on salasana / tunnus tilipalveluun ja palvelulla oikeus siirtää varoja (vrt non-custodial). Varat eivät ole käyttäjän hallinnassa.
+custodial = muusäilö/muusäilötty	käyttäjällä on salasana ja tunnus tilipalveluun ja palvelulla oikeus siirtää varoja (vastakohta omasäilötty). Varat eivät ole käyttäjän hallinnassa, mutta ovat käyttäjän vallinnassa.
 custodial service		ks custodial	
-custodial wallet		Bitcoin-lompakkotili (-n käyttösovellus), jolla hallittavat varat ovat vain välillisesti käyttäjän hallinnassa. Todellisuudessa kolmannella osapuolella on yksityiset avaimet ja siten koko hallinta varoihin. Varojen saavutettavuus ja käyttö edellyttää että kolmasosapuoli toimii vilpittömästi. Kolmas osapuoli välittää lompakkotilisovelluksen toimeksiannot eteenpäin. (vrt non-custodial wallet)
-cyberspace		kyberavaruus	
-cypherpunk movement	!!EI OLE SAMA ASIA KUIN CYBERPUNK!!	cypherpunk-liike; cypherpunkkarit
+custodial wallet		lompakkosovellus jossa varat ovat muusäilössä, jossa vallittavat varat ovat vain välillisesti käyttäjän hallinnassa. Todellisuudessa kolmannella osapuolella on yksityiset avaimet ja siten koko hallinta varoihin. Varojen saavutettavuus ja käyttö edellyttää että kolmasosapuoli toimii vilpittömästi. Kolmas osapuoli välittää lompakkotilisovelluksen toimeksiannot eteenpäin. (vastakohta self-custodial wallet)
+cyberspace			kyberavaruus	
+cypherpunk movement		!!EI OLE SAMA ASIA KUIN CYBERPUNK!!	cypherpunk-liike; cypherpunkkarit
 debase, debasement		heikentää (valuuttaa); (valuutan) heikentäminen	
 decentralization = hajauttaminen, desentralisaatio
 demand = kysyntä
@@ -113,11 +113,10 @@ network = verkko, verkosto
 networkparticipants		verkon jäsenet, käyttäjät; verkkoon osallistuvat	
 nocoiner = nocoinaaja, henkilö joka ei omista bitcoineja
 node (to run a node)		solmu (ajaa solmua)	
-node-operator		solmun ylläpitäjä	ei mielellään: solmuoperaattori
+node-operator			solmun ylläpitäjä	ei mielellään: solmuoperaattori
 nonce (number used only once) = vuoronumero
-non-custodial 			ks self-custodial 
-non-custodial wallet	Bitcoin-käteislompakko (sovellus), jolla hallittavat varat ovat täysin käyttäjän hallinnassa. Ainoastaan käyttäjällä on hallussa yksityiset avaimet. Käyttäjä saavuttaa varat ja käyttää niitä sovelluksella allekirjoitettavin ja suoraan Bitcoin- tai Lightning-verkkoihin lähetettävin toimeksiannoin. (vrt custodial wallet)
-notes	riippuu kontekstista	seteli(t)	huom. myös: "notes and coins" = käteisraha. Muissa monetaarisissa yhteyksissä: Velkakirja
+non-custodial			ks self-custodial 
+notes = riippuu kontekstista; seteli(t); huom. myös: "notes and coins" = käteisraha.; Muissa monetaarisissa yhteyksissä: Velkakirja
 opcode = operaatiokoodi
 open source = avoin lähdekoodi
 opportunity costs		vaihtoehto(is)kustannukset	
@@ -153,12 +152,14 @@ routing fee		reititysmaksu
 salable		kaupaksikäyvä t. menevä	"salability" = myytävyys
 salable over time, space and scale	vapaasti ilmaistavissa, esim:	myytävää / käy kaupaksi ajasta, paikasta ja mittakaavoista riippumatta	
 saving technology / technology for saving		säästämisen teknologia	miksei myös: säästöteknologia (vrt. säästöpankki) 
-scaling solutions / problem		skaalautuvuusratkaisu(t) / -ongelma(t)	
+scaling solutions / problem = skaalautuvuusratkaisu(t) / -ongelma(t)	
 scarcity = niukkuus
 seed = siemen
+seed phrase = siemenlause
 SegWit = segretoitu todistaja, erotettu/eriytetty todistaja
-settlement	kontekstisidonnainen	suoritus, esim. käteissuoritus "cash settlement"	myös ilmeisesti: tilitys t. selvitys
-self-custodial			Vain käyttäjällä on hallussa varojen hallintaan vaadittavat salausavaimet ja siten oikeus siirtää varoja. Varat ovat käyttäjän täydellisessä hallinnassa.
+settlement = kontekstisidonnainen; suoritus, esim. käteissuoritus "cash settlement" ; myös ilmeisesti: tilitys t. selvitys
+self-custodial = omasäilö/omasäilötty	Ainoastaan varojen omistajalla on hallussaan varojen hallintaan vaadittavat salausavaimet ja siten kyky siirtää varoja. Varat ovat käyttäjän täydellisessä hallinnassa ja vallinnassa.
+self-custodial wallet			lompakkosovellus, jossa hallittavat varat ovat omasäilöttynä eli täysin käyttäjän hallinnassa. Ainoastaan käyttäjällä on hallussa yksityiset avaimet. Käyttäjä saavuttaa varat ja käyttää niitä sovelluksella allekirjoitettavin ja suoraan Bitcoin- tai Lightning-verkkoihin lähetettävin toimeksiannoin. (vastakohta custodial wallet)
 Shilling = ylistäminen, höpöttäminen
 shitcoin = kakkakolikko, ks altcoin
 sidechain = sivuketju
