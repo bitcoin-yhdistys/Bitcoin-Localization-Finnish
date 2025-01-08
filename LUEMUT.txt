@@ -11,7 +11,7 @@ Transifex-käännöstyökalussa
 -Bitcoin Core: https://www.transifex.com/bitcoin/bitcoin/
 -BlueWallet: https://www.transifex.com/bluewallet/public/
 Crowdin-työkaluilla
--https://crowdin.com/project/swiss-bitcoin-pay
+-Swiss Bitcoin Pay: https://crowdin.com/project/swiss-bitcoin-pay
 
 ********************************************************
 
