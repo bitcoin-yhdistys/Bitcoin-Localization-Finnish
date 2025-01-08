@@ -5,12 +5,6 @@ BlueWallet: https://github.com/BlueWallet/BlueWallet/blob/master/loc/fi_fi.json
 
 Breez: https://github.com/breez/Breez-Translations/blob/main/lib/app_fi.arb
 
-Swiss Bitcoin Pay:
--Sovellus 		https://crowdin.com/project/swiss-bitcoin-pay
--Taustajärjestelmä 	https://crowdin.com/project/swiss-bitcoin-pay-server
--Ohjauspaneeli 		https://crowdin.com/project/swiss-bitcoin-pay-dashboard
--www-sivut 		https://crowdin.com/project/swiss-bitcoin-pay-website
-
 Zap-Android: https://github.com/LN-Zap/zap-android/blob/master/app/src/main/res/values-fi-rFI/strings.xml
 
 Zap-Desktop: https://github.com/LN-Zap/zap-desktop/blob/master/translations/fi-FI.jsons
