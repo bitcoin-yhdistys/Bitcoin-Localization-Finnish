@@ -23,8 +23,9 @@ Vapaaehtoisina riveinä tarkemmat kuvaukset muutoksista.
 
 Versiohistoria ja muutokset (uusin ylimmäisenä):
 ****************************
+20251212-2017 @tlindi lisätty mnemonics ja fraasit
 20250108-2205 @tlindi lisätty Swiss Bitcoin Pay Crowdin tuohon ylle
-20250108-2150 @tlindi @omnifinn kanssa keskustellun, sekä muun kääntäjäyhteison, perusteella ehdotus non-/self-custodial ja custodial käännöksestä, lisätty seed phrase sekä mparannettu muotoilua
+20250108-2150 @tlindi @omnifinn kanssa keskustellun, sekä muun kääntäjäyhteison, perusteella ehdotus non-/self-custodial ja custodial käännöksestä, lisätty seed phrase sekä parannettu muotoilua
 20240525-2040 @jarihu breezin url korjattu käännökset.txt fileen
 20240308-1637 @tlindi "logo bitcoin salamaverkko" -kansio siirretty uuteen repositoryyn nimeltä "Bitcoin and Lightning Network logo"
 20230105-1609 @tlindi poistettu "LICENCE"-tiedost ja korvattu se "Creative Commons Zero 1. Universial" licence.md-tiedostolla jonka sisältö tuki github:ilta

@@ -103,6 +103,7 @@ means of exchange	ei ilmeisesti sama kuin "medium of exchange" (= vaihdon välin
 message = viesti, sanoma
 mining		louhinta, kryptovaluutta prosessi, jossa luodaan uusia valuttayksiköitä ja vahvistetaan siirtoja; 	kullan yhteydessä: kaivuu
 mixing service = sekoituspalvelu
+Mnemonic	= muistikas, 12, 15, 24 tms erillistä sanaa (vrt seed phrase, recovery phrase)
 monetary medium		rahaväline	monetaarinen väline
 monetary policy = rahapolitiikka
 money supply	riippuu kontekstista	rahavaranto; rahan tarjonta; rahan määrä	
@@ -124,6 +125,7 @@ orphan block = orpolohko
 paper receipt		paperinen tosite	
 paper wallet = paperilompakko
 parent key		Kanta-avain	“vanhempi avain”?
+passphrase 			= salafraasi - salaisten sanojen (siemenlause / muistikas) salaukseen käytettävä lisäturvaa tuova valinnaisesti käytettävä merkkijono
 Pay-to-Public-Key Hash (P2PKH) = maksa julkisen avaimen tiivisteelle
 Pay-to-Script Hash (P2SH) = maksa skriptin tiivisteelle
 pay-to-witness-public-key-hash, p2wpkh		“maksa todistuksen julkisen avaimen tiivisteelle” ?, p2wpkh	
@@ -155,7 +157,7 @@ saving technology / technology for saving		säästämisen teknologia	miksei myö
 scaling solutions / problem = skaalautuvuusratkaisu(t) / -ongelma(t)	
 scarcity = niukkuus
 seed = siemen
-seed phrase = siemenlause
+seed phrase = siemenlause tai salaiset sanat
 SegWit = segretoitu todistaja, erotettu/eriytetty todistaja
 settlement = kontekstisidonnainen; suoritus, esim. käteissuoritus "cash settlement" ; myös ilmeisesti: tilitys t. selvitys
 self-custodial = omasäilö/omasäilötty	Ainoastaan varojen omistajalla on hallussaan varojen hallintaan vaadittavat salausavaimet ja siten kyky siirtää varoja. Varat ovat käyttäjän täydellisessä hallinnassa ja vallinnassa.
